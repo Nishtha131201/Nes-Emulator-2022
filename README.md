@@ -8,6 +8,10 @@ Note- Roughly 40-50% of games should work (ie. games that use either no mapper o
 Screenshots
 ------------------------
 
+![image](https://user-images.githubusercontent.com/63869921/189893910-baa6938a-d460-4c5f-8616-89cd0d87feaf.png)
+![image](https://user-images.githubusercontent.com/63869921/189893939-c2c32cbb-06e3-4f79-9710-abc3405f8b72.png)
+![image](https://user-images.githubusercontent.com/63869921/189893976-a264c2e7-3666-44fa-a733-ddc72565aa1a.png)
+
 
 Compiling
 -----------
